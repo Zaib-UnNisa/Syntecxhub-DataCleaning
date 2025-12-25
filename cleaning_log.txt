@@ -1,0 +1,12 @@
+Missing values before cleaning:
+number_courses    0
+time_study        0
+Marks             0
+dtype: int64
+
+Data types fixed.
+
+Duplicates removed: 0
+
+Column names standardized to lowercase.
+
